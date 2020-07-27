@@ -32,6 +32,8 @@ const k_muppet = {
 const farmAnimalsArray = farmAnimals.split(' ')
 const moo = farmAnimalsArray[0]
 const neigh = farmAnimalsArray[1]
+const baa = farmAnimalsArray[2]
+const oink = farmAnimalsArray[3]
 
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
 
