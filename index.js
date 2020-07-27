@@ -50,7 +50,7 @@ const pink = oink
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
-
+const red = cluck
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
