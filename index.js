@@ -53,6 +53,8 @@ const pink = oink
 const red = colors[0]
 const orange = colors[1]
 const yellow = colors[2]
+
+
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg. 
