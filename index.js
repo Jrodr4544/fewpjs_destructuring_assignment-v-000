@@ -50,13 +50,13 @@ const pink = oink
 // Arrays
 
 // 4. Use destructuring to assign appropriate variables using the color names.
-const red = colors[0]
-const orange = colors[1]
-const yellow = colors[2]
-const green = colors[3]
-const blue = colors[4]
-const indigo = colors[5]
-const violet = colors[6]
+const [red, orange, yellow, green, blue, indigo, violet] = colors
+// const orange = colors[1]
+// const yellow = colors[2]
+// const green = colors[3]
+// const blue = colors[4]
+// const indigo = colors[5]
+// const violet = colors[6]
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
 const r = red
