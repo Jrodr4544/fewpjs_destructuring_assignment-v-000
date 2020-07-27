@@ -37,6 +37,7 @@ const [moo, neigh, baa, oink, cluck] = farmAnimals.split(' ')
 // const cluck = farmAnimalsArray[4]
 
 // 2. Bolt the horse wandered off, so just give us four animals, and let's name them Bessie, Dolly, Babe, and Little.
+const [Bessie, , Dolly, Babe, Little] = farmAnimals.split(' ')
 const Bessie = moo
 const Dolly = baa
 const Babe = oink
