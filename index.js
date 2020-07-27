@@ -43,7 +43,7 @@ const [ black_and_white, , black, pink, ] = Bessie
 const [red, orange, yellow, green, blue, indigo, violet] = colors
 
 // 5. Some people have a really hard time picking out indigo, so let's leave that one out, using the first letter of each color as the variable names.
-const [r, o, y, g, b, v] = colors 
+const [r, o, y, g, b, , v] = colors 
 // const o = orange
 // const y = yellow
 // const g = green
